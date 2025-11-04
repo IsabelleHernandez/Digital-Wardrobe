@@ -21,7 +21,7 @@ export default function HomeScreen() {
       <ThemedView style={styles.titleContainer}>
         <ThemedText type="title">Welcome!</ThemedText>
         <HelloWave />
-        <ThemedText type="defaultSemiBold">Edit successful!</ThemedText> {/* ✅ Fixed line */}
+        <ThemedText type="defaultSemiBold">Edit successful!</ThemedText> 
       </ThemedView>
 
       <ThemedView style={styles.stepContainer}>
